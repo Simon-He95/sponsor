@@ -1,6 +1,4 @@
-# sponsor
-
 ## 赞助我
-![img](/assets/wechat.jpg 'wechat')
+![img](./wechat.jpg 'wechat')
 
-![img](/assets/alipay.jpg 'alipay')
+![img](./alipay.jpg 'alipay')
