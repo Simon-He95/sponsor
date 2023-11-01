@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@simon_he/sponsorkit':
-    specifier: ^0.0.3
-    version: 0.0.3(vue@3.3.7)
+    specifier: ^0.0.4
+    version: 0.0.4(vue@3.3.7)
 
 packages:
 
@@ -46,8 +46,8 @@ packages:
     resolution: {integrity: sha512-eF2rxCRulEKXHTRiDrDy6erMYWqNw4LPdQ8UQA4huuxaQsVeRPFl2oM8oDGxMFhJUWZf9McpLtJasDDZb/Bpeg==}
     dev: false
 
-  /@simon_he/sponsorkit@0.0.3(vue@3.3.7):
-    resolution: {integrity: sha512-R1n7KwzOdABboQk4NMoGTdUL2EvCPMmRPqzXIdC/iSzYIv7bN3qmuAn6FliMZ+csdwFqYn0nTSb51gp1t79wRA==}
+  /@simon_he/sponsorkit@0.0.4(vue@3.3.7):
+    resolution: {integrity: sha512-sJUyvnAk7WzRzrxgS3MMWvgBglXWB05XmISQIHKmaP8wyjWDN50rfb7q2Wkh/XCK41sJJ5+Im/AVQoY8pN9Z/g==}
     hasBin: true
     dependencies:
       consola: 3.2.3
