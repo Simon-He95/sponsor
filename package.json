@@ -1,0 +1,25 @@
+{
+  "packageManager": "pnpm@8.7.6",
+  "description": "sponsors",
+  "author": "Simon He",
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/antfu",
+  "homepage": "https://github.com/antfu/sponsorkit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simon-He95/simon.me.git"
+  },
+  "keywords": [
+    "sponsors",
+    "github-sponsors"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "sponsorkit",
+    "lint": "eslint .",
+    "prepublishOnly": "nr build"
+  },
+  "dependencies": {
+    "@simon_he/sponsorkit": "^0.0.2"
+  }
+}
