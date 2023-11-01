@@ -9,6 +9,6 @@
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsorkit/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsorkit/sponsors.png'/>
+    <img src='https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsorkit/sponsors.svg'/>
   </a>
 </p>
