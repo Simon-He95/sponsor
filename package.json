@@ -13,6 +13,16 @@
     "sponsors",
     "github-sponsors"
   ],
+  "sponsors": [
+    "antfu",
+    "geekris1",
+    "saltand",
+    "alkaidcc",
+    "KiligFei",
+    "sun0225SUN",
+    "zouhangwithsweet",
+    "war408705279"
+  ],
   "sideEffects": false,
   "scripts": {
     "build": "sponsorkit",
