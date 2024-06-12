@@ -12,3 +12,10 @@
     <img src="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsors.svg"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsors_circle.svg">
+    <img src="https://cdn.jsdelivr.net/gh/Simon-He95/sponsor/sponsors_circle.svg"/>
+  </a>
+</p>
+
