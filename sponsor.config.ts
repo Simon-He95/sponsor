@@ -3,6 +3,7 @@ import { customGithubUser } from './sponsors'
 
 export default defineConfig({
   // includePrivate: true,
+  type: 'all',
   tiers: [
     {
       title: 'Past Sponsors',
