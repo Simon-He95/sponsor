@@ -31,6 +31,6 @@
     "prepublishOnly": "nr build"
   },
   "dependencies": {
-    "@simon_he/sponsorkit": "^0.0.9"
+    "@simon_he/sponsorkit": "^0.0.10"
   }
 }
